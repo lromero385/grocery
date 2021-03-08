@@ -1,5 +1,21 @@
 ## Welcome to GitHub Pages
 
+[Shop Groceries](Shop-For-Groceries.html)
+
+[Checkout Groceries](Checkout-Groceries.html)
+
+[Payment Method](Payment-Method.html)
+
+[Verify-Age](Verify-Age.html)
+
+[Bag Groceries](Bag-Groceries.html)
+
+[Kart Groceries](Kart-Groceries.html)
+
+[Home](index.html)
+
+
+
 You can use the [editor on GitHub](https://github.com/lromero385/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
